@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center"> Happy to see you here! I'm Alessandro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> <br/> Get ready for a deep dive 🤿🐙 </h1>
+
+<img align="center" alt="DeepSeaCoding" width="720" height="406" src="/images/DeepOceanCoding.gif">
 
 <!--
 **AlePuglisi/AlePuglisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
