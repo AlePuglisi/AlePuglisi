@@ -25,11 +25,18 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlePuglisi.AlePuglisi)
 
 ..WIP..
-<h3 align="left"> :memo: Something About Me  </h2>
+<h3 align="left"> :memo: Something About Me  </h3>
 
-<h3 align="left"> :gear: Skills  </h2>
+<h3 align="left"> :gear: Skills  </h3>
 
-<h3 align="left"> :man_technologist: I'm Currently...  </h2>
+- #### :computer: Languages and SW Tools:
+- #### :books: Engineering:
+- #### :v: Soft: 
 
-<h3 align="left"> :mechanical_arm: I'm Planning to...  </h2>
+<img align="center" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp">
+"I can fix that"
+<br/>
+<h3 align="left"> :man_technologist: I'm Currently...  </h3>
+
+<h3 align="left"> :mechanical_arm: I'm Planning to...  </h3>
 
