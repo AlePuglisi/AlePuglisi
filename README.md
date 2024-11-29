@@ -30,10 +30,12 @@
 ...
 
 <h2 align="left"> :hammer_and_wrench: Skills  </h2> 
-<img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
 
 - #### :computer: Languages and SW Tools:
-  C++, Pyhton, C, MATLAB, Simulink, ROS, ROS 2, Gazebo, 
+  <img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
+  C++, Pyhton, C, MATLAB, Simulink, ROS, ROS 2, Gazebo,
+  
+  
 - #### :books: Engineering:
   Robotics (mobile and industrial) :robot: , Control Theory and Design :brain: , System Modelling :mag: , Mechanics :nut_and_bolt: , Electric Motors :zap:
 - #### :v: Soft:                                                            
