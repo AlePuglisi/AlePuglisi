@@ -33,23 +33,30 @@
 
 - #### :computer: Languages and SW Tools:
   <img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
-  C++, Pyhton, C, MATLAB, Simulink, ROS, ROS 2, Gazebo,
-  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/matlab_Logo.png' width='30'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/simulink_logo.jpg' height='30'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/ros_logo.png' height='25'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/ros2_logo.png' height='25'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/gazebo_logo.svg' width='30'/>
   
   
 - #### :books: Engineering:
-  Robotics (mobile and industrial) :robot: , Control Theory and Design :brain: , System Modelling :mag: , Mechanics :nut_and_bolt: , Electric Motors :zap:
-- #### :v: Soft:                                                            
+  Robotics (mobile and industrial) :robot: | Control Theory and Design :brain: | System Modelling :mag: | Mechanics :nut_and_bolt: | Electric Motors :zap:
+- #### :v: Soft Skills:                                                            
   Teamwork :handshake: , Public Speaking :speaking_head: :busts_in_silhouette: , Dedication :nerd_face:
 
 <br/>
 
 <h2 align="left"> :man_technologist: I'm Currently...  </h2>
 
-...
+- :man_student: MSc Thesis, about multi-locomotion transition of a 4-legged robot for Space Exploration (started at Tohoku University,SRL) 
+- :camera: Computer Vision and Image Analysis
+- :ocean: Underwater Robot state of the art
 
-<h2 align="left"> :mechanical_arm: I'm Planning to...  </h2>
+<h2 align="left"> :mechanical_arm: I'm Planning...  </h2>
 
-...
+- :bar_chart: Machine Learning implementation (I have taken a course in Model Identification and Data Analysis, but lack practice) 
+- :arrows_counterclockwise: Reinforcement Learning (with a focus on robotics)
+- :chart_with_upwards_trend: Advanced control techniques as MPC and Adaptive Control, in the field of Underwater ROV
+- :desktop_computer: Simulation with NVIDIA Omniverse Isaac Sim, especially for underwater simulation 
+- :toolbox: Raspberry Pi and more Hardware practice
+- :chains: CAD Tools, Solidworks probably
+- :fish: A lot of marine Biology
+
 
