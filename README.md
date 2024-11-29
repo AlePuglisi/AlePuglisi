@@ -25,18 +25,27 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlePuglisi.AlePuglisi)
 
 ..WIP..
-<h3 align="left"> :memo: Something About Me  </h3>
+<h2 align="left"> :memo: Something About Me  </h2>
 
-<h3 align="left"> :gear: Skills  </h3>
+...
+
+<h2 align="left"> :hammer_and_wrench: Skills  </h2> 
+<img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
 
 - #### :computer: Languages and SW Tools:
+  C++, Pyhton, C, MATLAB, Simulink, ROS, ROS 2, Gazebo, 
 - #### :books: Engineering:
-- #### :v: Soft: 
+  Robotics (mobile and industrial) :robot: , Control Theory and Design :brain: , System Modelling :mag: , Mechanics :nut_and_bolt: , Electric Motors :zap:
+- #### :v: Soft:                                                            
+  Teamwork :handshake: , Public Speaking :speaking_head: :busts_in_silhouette: , Dedication :nerd_face:
 
-<img align="center" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp">
-"I can fix that"
 <br/>
-<h3 align="left"> :man_technologist: I'm Currently...  </h3>
 
-<h3 align="left"> :mechanical_arm: I'm Planning to...  </h3>
+<h2 align="left"> :man_technologist: I'm Currently...  </h2>
+
+...
+
+<h2 align="left"> :mechanical_arm: I'm Planning to...  </h2>
+
+...
 
