@@ -35,6 +35,8 @@
   <img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
   C++, Pyhton, C, MATLAB, Simulink, ROS, ROS 2, Gazebo,
   
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>  
+  
   
 - #### :books: Engineering:
   Robotics (mobile and industrial) :robot: , Control Theory and Design :brain: , System Modelling :mag: , Mechanics :nut_and_bolt: , Electric Motors :zap:
