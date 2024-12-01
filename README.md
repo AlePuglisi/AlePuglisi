@@ -22,12 +22,23 @@
 <br/>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlePuglisi.AlePuglisi)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlePuglisi.AlePuglisi) -->
 
-..WIP..
 <h2 align="left"> :memo: Something About Me  </h2>
 
-...
+I love Nature, Robot and Research. 
+What is a possible meeting point? Autonomous systems used in the exploration of unknown environments!
+I'm a Master's student in Automation and Control Engineering at Politecnico di Milano (Italy), My objective is to work on R&D in advanced control techniques for Underwater Robots. 
+
+I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. 
+That's why joining forces is the only way to solve some of those.
+I want to work closely with experts in biology, environmental studies, mechanics, etc..., to find the solution to those problems. <br/>
+To make an example, This crazy [bio-inspired octopus robot]([https://pmc.ncbi.nlm.nih.gov/articles/PMC11321698/](https://www.youtube.com/watch?v=L7FEJJsvHRQ&t=114s&ab_channel=IEEESpectrum)) requires expertise on materials engineering, mechanics, computer science, marine biology, software development, Machine Learning, and so on... <br/>
+Only a heterogeneous team can handle this problem, the results can be amazing!
+
+
+I'm very passionate about what I do. I love learning and understanding how stuff works. <br/>
+:speech_balloon: Don't hesitate to reach me if you have similar interests, I love sharing ideas !! (email or LinkedIn above)
 
 <h2 align="left"> :hammer_and_wrench: Skills  </h2> 
 
@@ -43,13 +54,13 @@
 
 <br/>
 
-<h2 align="left"> :man_technologist: I'm Currently...  </h2>
+<h2 align="left"> :man_technologist: I'm Currently on...  </h2>
 
 - :man_student: MSc Thesis, about multi-locomotion transition of a 4-legged robot for Space Exploration (started at Tohoku University,SRL) 
 - :camera: Computer Vision and Image Analysis
 - :ocean: Underwater Robot state of the art
 
-<h2 align="left"> :mechanical_arm: I'm Planning...  </h2>
+<h2 align="left"> :mechanical_arm: I'm Planning to...  </h2>
 
 - :bar_chart: Machine Learning implementation (I have taken a course in Model Identification and Data Analysis, but lack practice) 
 - :arrows_counterclockwise: Reinforcement Learning (with a focus on robotics)
