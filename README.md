@@ -33,7 +33,7 @@ I'm a Master's student in Automation and Control Engineering at Politecnico di M
 I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. 
 That's why joining forces is the only way to solve some of those.
 I want to work closely with experts in biology, environmental studies, mechanics, etc..., to find the solution to those problems. <br/>
-To make an example, This crazy [bio-inspired octopus robot]([https://pmc.ncbi.nlm.nih.gov/articles/PMC11321698/](https://www.youtube.com/watch?v=L7FEJJsvHRQ&t=114s&ab_channel=IEEESpectrum)) requires expertise on materials engineering, mechanics, computer science, marine biology, software development, Machine Learning, and so on... <br/>
+To make an example, This crazy [bio-inspired octopus robot](https://www.youtube.com/watch?v=L7FEJJsvHRQ&t=114s&ab_channel=IEEESpectrum) (still in development) requires expertise on materials engineering, mechanics, computer science, marine biology, software development, Machine Learning, and so on... <br/>
 Only a heterogeneous team can handle this problem, the results can be amazing!
 
 
