@@ -14,10 +14,10 @@
 </p>
 <div align="center">
   * <img height="25" width="25" src="https://github.com/pkowal1982/godoticon/blob/master/image/32x32.png">
-  Gif created with GODOT Game engine (maybe overkill...), feel free to
+  I create this GIF with GODOT Game engine (maybe overkill...). If you like it, feel free to 
   <a href="https://github.com/AlePuglisi/AlePuglisi/blob/main/images/DeepOceanCoding.gif">
     <img src="https://img.shields.io/badge/Download-blue?style=flat-square&logo=download&logoColor=white" alt="Download Badge">
-  </a> it if you like!
+  </a>!
 </div>
 <br/>
 
