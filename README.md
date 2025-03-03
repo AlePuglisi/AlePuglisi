@@ -42,8 +42,7 @@ I'm very passionate about what I do. I love learning and understanding how stuff
 
 <h2 align="left"> :construction: Current Research Project  </h2> 
 
-I'm working on a multilimbed multimodal robot for extreme environment exploration.
-I worked on: 
+I'm working on a multilimbed multimodal robot for extreme environment exploration, in particular:
 - ROS2 (Humble and Jazzy) software implementation in C++
 - Motion algorithm definition and implementation
 - Model identification and kinematic modeling
