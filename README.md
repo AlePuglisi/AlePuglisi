@@ -50,11 +50,11 @@ I worked on:
 - [Dexterity analysis](https://github.com/AlePuglisi/limbed-robot-control) in MATLAB
 - Simulation in Gazebo (Classic and Harmonic)
 - Real system experiments
-
-Now I'm writing my MS Thesis on it, Click on the button below to see the experiments on YouTube (I'm working on the video editing right now)! 
 <a href="https://youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C&si=XT7-SM5ew28pVOmt">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40">
 </a>
+Now I'm writing my MS Thesis on it, Click the YouTube button to see the experiments! 
+
 
 <h2 align="left"> :hammer_and_wrench: Skills  </h2> 
 
