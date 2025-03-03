@@ -40,6 +40,22 @@ Only a heterogeneous team can handle this problem, the results can be amazing!
 I'm very passionate about what I do. I love learning and understanding how stuff works. <br/>
 :speech_balloon: Don't hesitate to reach me if you have similar interests, I love sharing ideas !! (email or LinkedIn above)
 
+<h2 align="left"> :construction: Current Research Project  </h2> 
+
+I'm working on a multilimbed multimodal robot for extreme environment exploration.
+I worked on: 
+- ROS2 (Humble and Jazzy) software implementation in C++
+- Motion algorithm definition and implementation
+- Model identification and kinematic modeling
+- [Dexterity analysis](https://github.com/AlePuglisi/limbed-robot-control) in MATLAB
+- Simulation in Gazebo (Classic and Harmonic)
+- Real system experiments
+
+Now I'm writing my MS Thesis on it, Click on the button below to see the experiments on YouTube (I'm working on the video editing right now)! 
+<a href="https://youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C&si=XT7-SM5ew28pVOmt">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40">
+</a>
+
 <h2 align="left"> :hammer_and_wrench: Skills  </h2> 
 
 - #### :computer: Languages and SW Tools:
