@@ -40,7 +40,9 @@ Only a heterogeneous team can handle this problem, the results can be amazing!
 I'm very passionate about what I do. I love learning and understanding how stuff works. <br/>
 :speech_balloon: Don't hesitate to reach me if you have similar interests, I love sharing ideas !! (email or LinkedIn above)
 
-<h2 align="left"> :construction: Current Research Project  </h2> 
+<h2 align="left"> :construction: Current Research Project (MSc Thesis)  </h2> 
+
+:blue_book: If you are curious about this project, my MSc Thesis is shared [here](https://drive.google.com/drive/folders/1XxlLAqeCEWFzSnoYQ-2cF5ayQb_x5DG8?usp=drive_link)!
 
 I'm working on a multilimbed multimodal robot for extreme environment exploration, in particular:
 - ROS2 (Humble and Jazzy) software implementation in C++
@@ -52,7 +54,7 @@ I'm working on a multilimbed multimodal robot for extreme environment exploratio
 <a href="https://youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C&si=XT7-SM5ew28pVOmt">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40">
 </a>
-Now I'm writing my MS Thesis on it, Click the YouTube button to see the experiments! 
+Click the YouTube button to see the experiments!
 
 
 <h2 align="left"> :hammer_and_wrench: Skills  </h2> 
@@ -71,7 +73,7 @@ Now I'm writing my MS Thesis on it, Click the YouTube button to see the experime
 
 <h2 align="left"> :man_technologist: I'm Currently on...  </h2>
 
-- :man_student: MSc Thesis, about multi-locomotion transition of a 4-legged robot for Space Exploration (started at Tohoku University,SRL) 
+- :man_student: [MSc Thesis](https://drive.google.com/drive/folders/1XxlLAqeCEWFzSnoYQ-2cF5ayQb_x5DG8?usp=drive_link), about multi-locomotion transition of a 4-legged robot for Space Exploration (started at Tohoku University,SRL) 
 - :camera: Computer Vision and Image Analysis
 - :ocean: Underwater Robot state of the art
 
