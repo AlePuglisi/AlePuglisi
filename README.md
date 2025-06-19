@@ -30,8 +30,9 @@ I love Nature, Robot and Research.
 What is a possible meeting point? Autonomous systems used in the exploration of unknown and endangered environments! <br/>
 I'm a (Oct.2025) PhD candidate in **Underwater Robotics** at the University of Montpellier, <br/>
 with the [Robotique Sous-Marine (RSM) Team](https://www.lirmm.fr/equipes/rsm/). <br/>
-My future PhD thesis is entitled:<br/>
+My future PhD thesis is entitled:
 *"Mapping and monitoring of the surface state and biological colonization of submerged parts of offshore wind turbines by acoustic imaging"*. <br/>
+
 My objective is to work on R&D in Underwater Robots perception. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring. 
 
 I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. 
