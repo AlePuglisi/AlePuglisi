@@ -4,7 +4,7 @@
   <a href="mailto:puglisialessandro27@gmail.com">
     <img src="https://img.shields.io/badge/-puglisialessandro27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/a-puglisi/">
+  <a href="https://www.linkedin.com/in/puglisialessandro/">
     <img src="https://img.shields.io/badge/-Alessandro_Puglisi-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
