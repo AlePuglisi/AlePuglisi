@@ -52,9 +52,14 @@ I'm very passionate about what I do. I love learning and understanding how stuff
   
   
 - #### :books: Engineering:
-  Robotics :robot: | Control Theory :brain: | System Modelling :mag: | <br/> Mechanics :nut_and_bolt: 
+  :robot: Robotics <br/>
+  :brain: Control Theory <br/>
+  :mag: System Modelling <br/>
+  :nut_and_bolt: Mechanics <br/>
 - #### :v: Soft Skills:                                                            
-  Teamwork :handshake: | Public Speaking :speaking_head: :busts_in_silhouette: | Dedication :nerd_face:
+  :handshake: Teamwork <br/>
+  :speaking_head: Public Speaking <br/>
+  :nerd_face: Dedication 
 
 <br/>
 
