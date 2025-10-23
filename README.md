@@ -27,13 +27,15 @@
 <h2 align="left"> :memo: Something About Me  </h2>
 
 I love Nature (especially the ocean and its inhabitants), Robots and Research. <br/>
-What is a possible meeting point? Autonomous systems used in the exploration and restoration of unknown and endangered environments! <br/>
+What is a possible meeting point? Autonomous systems deployed in unknown and endangered marine environments! <br/>
+Not just for the sake of exploration, but for understanding how to develop new conservation and restoration solutions!
+
 I'm a PhD candidate in **Underwater Robotics** at the University of Montpellier, <br/>
 with the [Robotique Sous-Marine (RSM) Team](https://www.lirmm.fr/equipes/rsm/). <br/>
 My future PhD thesis is entitled:
 *"Mapping and monitoring of the surface state and biological colonization of submerged parts of offshore wind turbines by acoustic imaging"*. <br/>
 
-My objective is to work on **R&D in Underwater Robots perception**. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring and restoration. 
+My objective is to work on **R&D in Underwater Robots perception**. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring, conservation and restoration. 
 
 I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. 
 That's why **joining forces is the only way to solve some of those**.
