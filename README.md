@@ -28,7 +28,7 @@
 
 I love Nature (especially the ocean and its inhabitants), Robots and Research. <br/>
 What is a possible meeting point? Autonomous systems deployed in unknown and endangered marine environments! <br/>
-Not just for the sake of exploration, but for understanding how to develop new conservation and restoration solutions!
+Not just for the sake of exploring, but for understanding how to develop new conservation and restoration solutions!
 
 I'm a PhD candidate in **Underwater Robotics** at the University of Montpellier, <br/>
 with the [Robotique Sous-Marine (RSM) Team](https://www.lirmm.fr/equipes/rsm/). <br/>
