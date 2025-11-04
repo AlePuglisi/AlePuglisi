@@ -76,7 +76,7 @@ I worked on a multilimbed multimodal (walking-climbing-driving) robot for extrem
 - Motion algorithm definition and implementation
 - Model identification and kinematic modeling
 - [Dexterity analysis](https://github.com/AlePuglisi/limbed-robot-control) in MATLAB
-- Simulation in Gazebo (Classic and Harmonic)
+- [Simulation in Gazebo](https://github.com/AlePuglisi/LIMBERO) (Classic and Harmonic)
 - Real system experiments
 <a href="https://youtube.com/playlist?list=PLFgoOtxCJKTPv_dibdvSUT_YPGDJBc_5C&si=XT7-SM5ew28pVOmt">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40">
