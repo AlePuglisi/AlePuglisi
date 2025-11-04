@@ -90,7 +90,8 @@ If you were so crazy to take a look at it, please let me know what you think abo
 
 <h2 align="left"> :man_technologist: I'm Currently on...  </h2>
 
-- :ocean: Underwater Robot perception state of the art 
+- :ocean: Underwater Robot perception state of the art
+- :desktop_computer: Simulation with Stonefish
 - :camera: Computer Vision and Image Analysis (OpenCV)
 - :bar_chart: Deep Learning for Object Detection (TensorFlow, PyTorch)
 - :compass: (Semantic) SLAM (Underwater Acoustic-Visual)
@@ -98,9 +99,8 @@ If you were so crazy to take a look at it, please let me know what you think abo
   
 <h2 align="left"> :mechanical_arm: I'm Planning to...  </h2>
 
-- :desktop_computer: Simulation with Stonefish
 - :chains: CAD Tools, Fusion360 probably
-- :toolbox: Raspberry Pi and more Hardware practice
+- :toolbox: Raspberry Pi, Jatson Nano and more Hardware practice
 - :fish: A lot of marine Biology
 
 
