@@ -32,7 +32,7 @@ Not just for the sake of exploring, but for understanding how to develop new con
 
 I'm a PhD candidate in **Underwater Robotics** at the University of Montpellier, <br/>
 with the [Robotique Sous-Marine (RSM) Team](https://www.lirmm.fr/equipes/rsm/). <br/>
-My future PhD thesis is entitled:
+My ongoing PhD thesis is entitled:
 *"Mapping and monitoring of the surface state and biological colonization of submerged parts of offshore wind turbines by acoustic imaging"*. <br/>
 
 My objective is to work on **R&D in Underwater Robots perception**. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring, conservation and restoration. 
