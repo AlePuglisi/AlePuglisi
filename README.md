@@ -53,9 +53,7 @@ I'm very passionate about what I do. I love learning and understanding how stuff
   <img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
   <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='35'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/matlab_Logo.png' width='35'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png' height='35'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/ros_logo.png' height='25'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/ros2_logo.png' height='25'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/gazebo_logo.svg' width='35'/>
 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlePuglisi&hide=html,css)
-
+![Top Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlePuglisi&theme=github_dark)
   
 - #### :books: Engineering:
   :robot: Robotics <br/>
