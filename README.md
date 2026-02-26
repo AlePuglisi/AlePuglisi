@@ -13,7 +13,7 @@
 </div>
 <br/>
 <p align="center">
-<img align="center" alt="DeepSeaCoding" width="720" height="406" src="/images/DeepOceanCoding.gif">
+<img align="center" alt="DeepSeaCoding" width="580" height="325" src="/images/DeepOceanCoding.gif">
 </p>
 <div align="center">
   <img height="25" width="25" src="https://skillicons.dev/icons?theme=dark&perline=7&i=godot" alt="Gmail Badge" />
