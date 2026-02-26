@@ -2,10 +2,13 @@
 
 <div align="center">
   <a href="mailto:puglisialessandro27@gmail.com">
-    <img src="https://img.shields.io/badge/-puglisialessandro27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+    <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=gmail" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/puglisialessandro/">
-    <img src="https://img.shields.io/badge/-Alessandro_Puglisi-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+    <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=linkedin" alt="Gmail Badge" />
+  </a>
+  <a href="https://alepuglisi.github.io/">
+    <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=github" alt="Gmail Badge" />
   </a>
 </div>
 <br/>
@@ -13,11 +16,10 @@
 <img align="center" alt="DeepSeaCoding" width="720" height="406" src="/images/DeepOceanCoding.gif">
 </p>
 <div align="center">
-  * <img height="25" width="25" src="https://github.com/pkowal1982/godoticon/blob/master/image/32x32.png">
+  <img height="25" width="25" src="https://skillicons.dev/icons?theme=dark&perline=7&i=godot" alt="Gmail Badge" />
   I create this GIF with GODOT Game engine (maybe overkill...). If you like it, feel free to 
-  <a href="https://github.com/AlePuglisi/AlePuglisi/blob/main/images/DeepOceanCoding.gif">
-    <img src="https://img.shields.io/badge/Download-blue?style=flat-square&logo=download&logoColor=white" alt="Download Badge">
-  </a>!
+  <a href="https://github.com/AlePuglisi/AlePuglisi/blob/main/images/DeepOceanCoding.gif">Download
+  </a>
 </div>
 <br/>
 
