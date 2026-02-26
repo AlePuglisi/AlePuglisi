@@ -5,10 +5,10 @@
     <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=gmail" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/puglisialessandro/">
-    <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=linkedin" alt="Gmail Badge" />
+    <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=linkedin" alt="Linkedin Badge" />
   </a>
   <a href="https://alepuglisi.github.io/">
-    <img src="https://skillicons.dev/icons?theme=dark&perline=7&i=github" alt="Gmail Badge" />
+    <img height="50" width="50" src="/images/favicon-512x512.png" alt="Page Badge" />
   </a>
 </div>
 <br/>
