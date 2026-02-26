@@ -53,7 +53,7 @@ I'm very passionate about what I do. I love learning and understanding how stuff
 - #### :computer: Languages and SW Tools: 
 
   <img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,python,linux,ros,opencv,pytorch,matlab,git,github,blender,latex," />
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,python,matlab,linux,ros,opencv,pytorch,git,github,blender,latex," />
 
 ![Top Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlePuglisi&theme=github_dark)
   
