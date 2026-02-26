@@ -45,13 +45,14 @@ I want to work closely with experts in biology, environmental studies, data scie
 I'm very passionate about what I do. I love learning and understanding how stuff works. <br/>
 :speech_balloon: Don't hesitate to reach me if you have similar interests, I love sharing ideas !! (email or LinkedIn above)
 
+[![](https://raw.githubusercontent.com/AlePuglisi/AlePuglisi/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h2 align="left"> :hammer_and_wrench: Skills  </h2> 
 
 - #### :computer: Languages and SW Tools: 
 
   <img align="right" alt="bladerunner" width="360" height="203" src="/images/cyberpunk.webp" title="I can fix that">
-  <img src = 'https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='35'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/matlab_Logo.png' width='35'/> <img src = 'https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png' height='35'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/ros_logo.png' height='25'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/ros2_logo.png' height='25'/> <img src = 'https://github.com/AlePuglisi/AlePuglisi/blob/main/images/gazebo_logo.svg' width='35'/>
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=cpp,c,python,linux,ros,opencv,pytorch,matlab,git,github,blender,latex," />
 
 ![Top Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlePuglisi&theme=github_dark)
   
