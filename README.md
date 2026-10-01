@@ -30,7 +30,7 @@ Links to my contacts and profiles:
 
 <h2 align="left"> :memo: Something About Me  </h2>
 
-I love Nature (especially the ocean and its inhabitants), Robots and Research. <br/>
+I love Nature (especially the ocean and its inhabitants), robots, and science-driven research. <br/>
 What is a possible meeting point? Autonomous systems deployed in unknown and endangered marine environments! <br/>
 Not just for the sake of exploring, but for understanding how to develop new conservation and restoration solutions!
 
@@ -39,11 +39,11 @@ with the [Robotique Sous-Marine (RSM) Team](https://www.lirmm.fr/equipes/rsm/). 
 My ongoing PhD thesis is entitled:
 *"Mapping and monitoring of the surface state and biological colonization of submerged parts of offshore wind turbines by acoustic imaging"*. <br/>
 
-My objective is to work on **R&D in Underwater Robots perception**. I want to enhance scene understanding and system autonomy, for biodiversity, environmental, and renewable infrastructure monitoring, conservation and restoration. 
+My objective is to work on **R&D in underwater robot perception**. I want to enhance scene understanding and system autonomy for biodiversity, environmental, and renewable infrastructure monitoring, conservation, and restoration. 
 
-I believe that there are unsolved problems in different fields of science and engineering, with many similarities we don't think about. 
-That's why **joining forces is the only way to solve some of those**.
-I want to work closely with experts in biology, environmental studies, data science, electronics, and mechanics, to find the solution to those problems. <br/>
+I believe unsolved problems exist across different fields of science and engineering, with  similarities often overlooked. 
+That's why joining forces is the only way to solve some of them. I want to work in a multidisciplinary and stimulating environment,
+where I can use my engineering skills to find scalable and efficient solutions for ocean science. <br/>
 
 
 I'm very passionate about what I do. I love learning and understanding how stuff works. <br/>
